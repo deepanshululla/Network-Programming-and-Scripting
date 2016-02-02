@@ -1,7 +1,0 @@
-Program has four parts
-	-Main program->socket creation and connection establishment(client.py)
-	-data extraction from sockets
-	-integer data extraction from string and algebriac solution(done-> str2int2.py)
-	-sending data back in desired form and catching secret flags
-
-	
