@@ -1,0 +1,31 @@
+import os
+
+TCP_Variant = ['Tahoe', 'Reno', 'NewReno', 'Vegas','Cubic']
+k=os.getcwd()
+os.system("rm *.txt")
+
+for proto in TCP_Variant:
+	throughPutFile=proto+"ThroughPut.txt"
+	latencyFile=proto+"Latency.txt"
+	droppedPacketsFile=proto+"DroppedPackets.txt"
+
+	f1 = open(throughPutFile, 'w')
+	f2 = open(latencyFile, 'w')
+	f3= open(droppedPacketsFile, 'w')
+
+	f1.write("CBR rate"+"\t"+"throughPut"+'\n')
+	f2.write("CBR rate"+"\t"+"latency"+'\n')
+	f3.write("CBR rate"+"\t"+"dropped packets"+'\n')
+
+	f1.close()
+	f2.close()
+	f3.close()
+
+for var in TCP_Variant:
+    for rate in range(1,11):
+        os.system("ns exp1.tcl " + var + " " + str(rate))
+	os.system("python traceCheckExp1.py " + var + "_output-" + str(rate)+'.tr')
+		
+
+os.system("rm *.tr")
+os.system("rm *.nam")

@@ -1,0 +1,20 @@
+from __future__ import print_function
+import socket
+import ssl
+
+serverSocket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+serverSocket.bind(('localhost',8000))
+serverSocket.listen(1)
+clientSocket,clientAddress=serverSocket.accept()
+
+print('connected to',clientAddress)
+
+sslServer=ssl.wrap_socket(clientSocket,server_side=True)
+
+while 1:
+	dataSend=raw_input('Server: ')
+	dataRecv=sslServer.read(1024)
+	print('Client: ',dataRecv)
+	if not data:break
+    	sslServer.write(data)
+sslServer.close()

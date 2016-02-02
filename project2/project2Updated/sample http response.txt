@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2015 18:59:12 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Content-Language: en-us
+Expires: Thu, 26 Nov 2015 18:59:12 GMT
+Vary: Cookie,Accept-Language,Accept-Encoding
+Cache-Control: max-age=0
+Set-Cookie: csrftoken=063d75d6ff0fd4b3ffbf21855dc74882; expires=Thu, 24-Nov-2016 18:59:12 GMT; Max-Age=31449600; Path=/
+Set-Cookie: sessionid=d0191310a47c9c5f6c966c954edd0790; expires=Thu, 10-Dec-2015 18:59:12 GMT; Max-Age=1209600; Path=/
+Last-Modified: Thu, 26 Nov 2015 18:59:12 GMT
+Content-Length: 1152
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8

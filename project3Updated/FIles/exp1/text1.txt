@@ -1,0 +1,150 @@
+Tahoe_output-1.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-2.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-3.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-4.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-5.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-6.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-7.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-8.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-9.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Tahoe_output-10.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-1.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-2.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-3.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-4.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-5.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-6.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-7.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-8.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-9.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Reno_output-10.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-1.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-3.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-4.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-5.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-6.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-7.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-8.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-9.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+NewReno_output-10.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+
+Vegas_output-1.tr
+TCP Throughput=data flowing/sec is 0
+The average delay(RTT) is 0
+the total number of TCp and ack dropped packets are  0
+

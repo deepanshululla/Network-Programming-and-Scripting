@@ -1,0 +1,10 @@
+import socket
+import tcpClient
+
+# s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+# s.connect(('www.google.com', 443))
+# sslSocket = socket.ssl(s)
+# print sslSocket
+# s.close()
+
+s=tcpClient.create(('www.google.com', 443))

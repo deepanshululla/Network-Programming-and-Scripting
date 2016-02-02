@@ -1,0 +1,40 @@
+
+High Level approach
+-	Successfully developed a client process in python to crawl over 20k pages(using Depth First Search algorithm) and find 5 secret flags located at various locations 
+-	Used sockets to send various HTTP requests like GET, POST and HEAD
+-	Handled various aspects of HTTP like session handling, cookie management and HTTP response code handling
+
+
+There are three files in the project
+-webcrawler.py 
+It is the file that is passed onto the shell.It has two primary functions login and crawl.It manages two important variables
+url_unvisited and url_visited which are list objects of unvisited and visited urls respectively.
+-socks.py
+This file has functions which create a socket connection,connect to the server as well 
+send and recieve data. 
+-webs.py
+This file has all the support functions for a web crawler like functions to extract links from a page or extracting
+information from HTTP headers
+
+Challenges Faced:
+-The first challenge we faced was in generating post requests to login into the server. The server kept giving 302 Found
+but it was solved by folllowing the put request by a get request.
+-The second challenge we faced was that we didn't know after login the session id gets changed by the server. It took us a
+lot of time to figure this one out and hence we generated a new cookie with the session id submitted in 302 found response.
+-The third challenge we faced was in extracting the urls from a page. 
+-The fourth challenge was in crawling through the entire website. This was done using Depth first search algorithm.
+-The fifth challenge we faced was 500 server error. It gave us a very unusual error where when we resent the last request after 
+500 internal server and the server stopped sending data. This was solved by creating a new socket object and replacing the old
+socket object with the new one every time the crawler wanted to send data.
+
+Overview of How we tested the code
+-The first test was done to get the login page of the fakebook.
+-The second test was done in creating a post header and checking login.
+-The third test was done to check whether we were able to extract urls from a page.
+-The fourth test was done to check whether Depth search is working the way it is supposed to.
+
+
+
+
+
+

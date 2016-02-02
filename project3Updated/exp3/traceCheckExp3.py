@@ -1,0 +1,50 @@
+from __future__ import print_function
+import sys
+import traceLibExp3
+
+traceFile=open(sys.argv[1],'r')
+traceData=traceFile.read()
+traceLines=traceData.split("\n")
+def frange(start, stop, step):
+	i = start
+	while i < stop:
+		yield i
+		i += step
+		
+
+throughPut1_dict={}
+latency1_dict={}
+pacCount1_dict={}
+l1=sys.argv[1].split('_output')
+
+proto,q=l1[0].split("-")
+
+throughPutFile=proto+q+"ThroughPut.txt"
+latencyFile=proto+q+"Latency.txt"
+droppedPacketsFile=proto+q+"DroppedPackets.txt"
+f1 = open(throughPutFile, 'a')
+f2 = open(latencyFile, 'a')
+f3= open(droppedPacketsFile, 'a')
+f4=open("Drop_rate.txt",'a')
+x=0
+for y in frange(0.25,10,0.25):
+	
+	throughPut1_dict[str(y)]=traceLibExp3.tcpCalcThroughput(traceLines,x,y,2,3,1.0,4.0)
+	latency1_dict[str(y)]=traceLibExp3.calcAvgLatencyExp3(traceLines,2,3,1.0,4.0,x,y)
+	pacCount=traceLibExp3.tcpPacketCountExp3(traceLines,1.0,4.0,x,y)
+	pacCount1_dict[str(y)]=pacCount['dropped']
+	x=y
+	f1.write(str(y)+"\t"+str(throughPut1_dict[str(y)])+'\n')
+	f2.write(str(y)+"\t"+str(latency1_dict[str(y)])+'\n')
+	f3.write(str(y)+"\t"+str(pacCount1_dict[str(y)])+'\n')
+# print(throughPut1_dict)
+# print(latency1_dict)
+# print(pacCount1_dict)
+dropRate=traceLibExp3.calcDropRate(traceLines,1.0,4.0)
+print(proto+"\t"+q+"\t"+str(dropRate)+"\n")
+f4.write(proto+"\t"+q+"\t"+str(dropRate)+"\n")
+
+f1.close()
+f2.close()
+f3.close()
+f4.close()

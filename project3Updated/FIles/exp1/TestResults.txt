@@ -1,0 +1,400 @@
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0080000000000000002
+Tahoe_output-1.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0040000000000000001
+Tahoe_output-2.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0026666666666666666
+Tahoe_output-3.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.002
+Tahoe_output-4.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0016000000000000001
+Tahoe_output-5.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0013333333333333333
+Tahoe_output-6.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0011428571428571429
+Tahoe_output-7.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.46350097656
+The average propagation delay  in miliseconds is 10.8311001125
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.001
+Tahoe_output-8.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.15368652344
+The average propagation delay  in miliseconds is 10.8308587732
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00088888888888888893
+Tahoe_output-9.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.642822265625
+The average propagation delay  in miliseconds is 10.8299539642
+the total number of TCp and ack dropped packets are  9
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00080000000000000004
+Tahoe_output-10.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.13525390625
+The average propagation delay  in miliseconds is 10.8223614458
+the total number of TCp and ack dropped packets are  19
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0080000000000000002
+Reno_output-1.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0040000000000000001
+Reno_output-2.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0026666666666666666
+Reno_output-3.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.002
+Reno_output-4.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0016000000000000001
+Reno_output-5.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0013333333333333333
+Reno_output-6.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0011428571428571429
+Reno_output-7.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.46350097656
+The average propagation delay  in miliseconds is 10.8311001125
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.001
+Reno_output-8.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.15368652344
+The average propagation delay  in miliseconds is 10.8308587732
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00088888888888888893
+Reno_output-9.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.552185058594
+The average propagation delay  in miliseconds is 10.8296190476
+the total number of TCp and ack dropped packets are  11
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00080000000000000004
+Reno_output-10.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.13525390625
+The average propagation delay  in miliseconds is 10.8223614458
+the total number of TCp and ack dropped packets are  17
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0080000000000000002
+NewReno_output-1.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0040000000000000001
+NewReno_output-2.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0026666666666666666
+NewReno_output-3.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.002
+NewReno_output-4.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0016000000000000001
+NewReno_output-5.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0013333333333333333
+NewReno_output-6.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.466796875
+The average propagation delay  in miliseconds is 10.8311021324
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0011428571428571429
+NewReno_output-7.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.46350097656
+The average propagation delay  in miliseconds is 10.8311001125
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.001
+NewReno_output-8.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.15368652344
+The average propagation delay  in miliseconds is 10.8308587732
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00088888888888888893
+NewReno_output-9.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.599975585938
+The average propagation delay  in miliseconds is 10.8298082192
+the total number of TCp and ack dropped packets are  10
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00080000000000000004
+NewReno_output-10.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.13525390625
+The average propagation delay  in miliseconds is 10.8223614458
+the total number of TCp and ack dropped packets are  18
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0080000000000000002
+Vegas_output-1.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0040000000000000001
+Vegas_output-2.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0026666666666666666
+Vegas_output-3.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.002
+Vegas_output-4.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0016000000000000001
+Vegas_output-5.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0013333333333333333
+Vegas_output-6.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33935546875
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0011428571428571429
+Vegas_output-7.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.33618164062
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.001
+Vegas_output-8.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.0791015625
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00088888888888888893
+Vegas_output-9.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.60302734375
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00080000000000000004
+Vegas_output-10.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.092041015625
+The average propagation delay  in miliseconds is 10.8
+the total number of TCp and ack dropped packets are  16
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0080000000000000002
+Cubic_output-1.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 3.00762939453
+The average propagation delay  in miliseconds is 10.8315618839
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0040000000000000001
+Cubic_output-2.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 3.00268554688
+The average propagation delay  in miliseconds is 10.8315611629
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0026666666666666666
+Cubic_output-3.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 2.95159912109
+The average propagation delay  in miliseconds is 10.8315535714
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.002
+Cubic_output-4.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 2.80328369141
+The average propagation delay  in miliseconds is 10.8315299647
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0016000000000000001
+Cubic_output-5.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 2.56103515625
+The average propagation delay  in miliseconds is 10.8314855305
+the total number of TCp and ack dropped packets are  0
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0013333333333333333
+Cubic_output-6.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 2.04357910156
+The average propagation delay  in miliseconds is 10.8313553586
+the total number of TCp and ack dropped packets are  1
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.0011428571428571429
+Cubic_output-7.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.45196533203
+The average propagation delay  in miliseconds is 10.8310929705
+the total number of TCp and ack dropped packets are  2
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.001
+Cubic_output-8.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 1.09930419922
+The average propagation delay  in miliseconds is 10.8308023952
+the total number of TCp and ack dropped packets are  4
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00088888888888888893
+Cubic_output-9.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.580200195312
+The average propagation delay  in miliseconds is 10.829733711
+the total number of TCp and ack dropped packets are  14
+
+simulation for new reno
+CBR packet size = 1000
+CBR interval = 0.00080000000000000004
+Cubic_output-10.tr
+TCP Throughput=data flowing/sec  in Mb/sec is 0.16162109375
+The average propagation delay  in miliseconds is 10.8239191919
+the total number of TCp and ack dropped packets are  22
+

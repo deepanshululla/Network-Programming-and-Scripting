@@ -1,0 +1,24 @@
+from __future__ import print_function
+import sys
+import traceLib
+
+traceFile=open(sys.argv[1],'r')
+traceData=traceFile.read()
+
+traceLines=traceData.split("\n")
+
+
+k1=traceLib.calcThroughput(traceLines,0,5,'tcp',2,3)
+
+print(sys.argv[1])
+print("TCP Throughput=data flowing/sec is",k1)
+	
+	
+
+
+d1=traceLib.calcAvgDelay(traceLines,2,3)
+d2=traceLib.packetCount(traceLines)
+
+print("The average delay(RTT) is",d1)
+print("the numbe rof dropped packets are ",d2['dropped'])
+print("")

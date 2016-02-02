@@ -1,0 +1,12 @@
+import os
+
+TCP_Variant = ['Tahoe', 'Reno', 'NewReno', 'Vegas','Cubic','Bic']
+k=os.getcwd()
+
+for var in TCP_Variant:
+    for rate in range(1,11,0.5):
+        os.system("ns exp1.tcl " + var + " " + str(rate))
+		os.system("python exp1.py " + var + "_output-" + str(rate))
+		
+
+os.system("rm *.tr")

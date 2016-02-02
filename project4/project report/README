@@ -1,0 +1,9 @@
+The Raw sockets assignement was created in the following steps:
+
+1. Raw sockets and functions to create TCP and IP headers were created
+2. TCP handshake was first created and tested. Data was confirmed in wireshark
+3. Then the GET request was generated and attached to the raw sockets.
+4. Conditions were decided to deal with Duplicate acks and sequence numbers
+5. Data was saved in the file.
+
+There were many issues faced during this assignment.

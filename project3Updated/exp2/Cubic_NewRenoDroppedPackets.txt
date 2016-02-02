@@ -1,0 +1,11 @@
+CBR rate	dropped packetsCubic	 dropped packets NewReno
+1	1	0
+2	2	0
+3	2	0
+4	2	0
+5	5	0
+6	6	1
+7	6	0
+8	15	8
+9	31	38
+10	24	34
