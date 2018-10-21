@@ -1,5 +1,5 @@
 
-High Level approach
+### High Level approach
 -	Successfully developed a client process in python to crawl over 20k pages(using Depth First Search algorithm) and find 5 secret flags located at various locations 
 -	Used sockets to send various HTTP requests like GET, POST and HEAD
 -	Handled various aspects of HTTP like session handling, cookie management and HTTP response code handling
@@ -16,7 +16,7 @@ send and recieve data.
 This file has all the support functions for a web crawler like functions to extract links from a page or extracting
 information from HTTP headers
 
-Challenges Faced:
+#### Challenges Faced:
 -The first challenge we faced was in generating post requests to login into the server. The server kept giving 302 Found
 but it was solved by folllowing the put request by a get request.
 -The second challenge we faced was that we didn't know after login the session id gets changed by the server. It took us a
@@ -27,7 +27,7 @@ lot of time to figure this one out and hence we generated a new cookie with the 
 500 internal server and the server stopped sending data. This was solved by creating a new socket object and replacing the old
 socket object with the new one every time the crawler wanted to send data.
 
-Overview of How we tested the code
+#### Overview of How we tested the code
 -The first test was done to get the login page of the fakebook.
 -The second test was done in creating a post header and checking login.
 -The third test was done to check whether we were able to extract urls from a page.
